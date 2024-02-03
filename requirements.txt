@@ -1,0 +1,18 @@
+asgiref==3.7.2
+certifi==2023.11.17
+cffi @ file:///private/tmp/cffi-20231014-5567-1hyue8f/cffi-1.16.0
+charset-normalizer==3.3.2
+Django==5.0.1
+djangorestframework==3.14.0
+docutils @ file:///private/tmp/docutils-20231015-5454-w1xze4/docutils-0.20.1
+idna==3.6
+Mopidy==3.4.2
+Mopidy-Iris==3.69.3
+pycparser @ file:///private/tmp/pycparser-20231013-5787-1anpge2/pycparser-2.21
+pykka==4.0.1
+pytz==2023.3.post1
+requests==2.31.0
+six==1.16.0
+sqlparse==0.4.4
+tornado==6.4
+urllib3==2.2.0
